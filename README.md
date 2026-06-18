@@ -20,7 +20,7 @@ The dataset is sourced from the Instacart Market Basket Analysis competition
 on Kaggle. To download, visit [kaggle.com/c/instacart-market-basket-analysis](https://www.kaggle.com/c/instacart-market-basket-analysis/data).
 
 ## Project Structure
-nstacart-statistical-eda/
+instacart-statistical-eda/
 │
 
 ├── Instacart_Statistical_EDA.ipynb   # Main analysis notebook
